@@ -1,0 +1,11 @@
+{
+    "name": "tomka/kalman-web-design",
+    "authors": [
+        {
+            "name": "Kalman Web Design"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
